@@ -1,0 +1,14 @@
+C:\Users\Василько\source\repos\SOUVENIR\SOUVENIR\bin\Debug\net10.0\SOUVENIR.exe
+C:\Users\Василько\source\repos\SOUVENIR\SOUVENIR\bin\Debug\net10.0\SOUVENIR.deps.json
+C:\Users\Василько\source\repos\SOUVENIR\SOUVENIR\bin\Debug\net10.0\SOUVENIR.runtimeconfig.json
+C:\Users\Василько\source\repos\SOUVENIR\SOUVENIR\bin\Debug\net10.0\SOUVENIR.dll
+C:\Users\Василько\source\repos\SOUVENIR\SOUVENIR\bin\Debug\net10.0\SOUVENIR.pdb
+C:\Users\Василько\source\repos\SOUVENIR\SOUVENIR\obj\Debug\net10.0\SOUVENIR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Василько\source\repos\SOUVENIR\SOUVENIR\obj\Debug\net10.0\SOUVENIR.AssemblyInfoInputs.cache
+C:\Users\Василько\source\repos\SOUVENIR\SOUVENIR\obj\Debug\net10.0\SOUVENIR.AssemblyInfo.cs
+C:\Users\Василько\source\repos\SOUVENIR\SOUVENIR\obj\Debug\net10.0\SOUVENIR.csproj.CoreCompileInputs.cache
+C:\Users\Василько\source\repos\SOUVENIR\SOUVENIR\obj\Debug\net10.0\SOUVENIR.dll
+C:\Users\Василько\source\repos\SOUVENIR\SOUVENIR\obj\Debug\net10.0\refint\SOUVENIR.dll
+C:\Users\Василько\source\repos\SOUVENIR\SOUVENIR\obj\Debug\net10.0\SOUVENIR.pdb
+C:\Users\Василько\source\repos\SOUVENIR\SOUVENIR\obj\Debug\net10.0\SOUVENIR.genruntimeconfig.cache
+C:\Users\Василько\source\repos\SOUVENIR\SOUVENIR\obj\Debug\net10.0\ref\SOUVENIR.dll
